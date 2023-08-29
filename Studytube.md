@@ -1,7 +1,19 @@
-# Emne
+# Emne: User Research
 
-## Beskrivelse
+<details>
+<summary> Beskrivelse</summary>
+<br>
+skriv her
+</details>
 
-## Billede/Video
-[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
-## Reference
+<details>
+<summary> Billede/video</summary>
+<br>
+indsæt billed/videolink
+</details>
+
+<details>
+<summary> Reference</summary>
+<br>
+indsæt link som reference
+</details>
