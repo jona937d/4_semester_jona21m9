@@ -1,3 +1,11 @@
+# Week plan
+
+| Time              | Monday           | Tuesday          | Wednesday         | Thursday          | Friday            |
+|-------------------|------------------|------------------|-------------------|-------------------|-------------------|
+| 9:00 AM - 12:00 PM|Udfør weekplan i github| Course: Introduction to Career Skills in Software Development|Course: Programming Foundations: Fundamentals|Course: Programming Foundations: Beyond the Fundamentals|lav Studytube i powerpages
+| 12:00 PM - 12:30 PM| Lunch           | Lunch            | Lunch             | Lunch             | Lunch             |
+| 12:30 PM - 2:00 PM |skriv noter|skriv noter|skriv noter|skriv noter|lav Studytube i powerpages|
+
 # Mandag
 
 <details>
