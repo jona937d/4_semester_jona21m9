@@ -2,7 +2,7 @@
 
 | Time              | Monday           | Tuesday          | Wednesday         | Thursday          | Friday            |
 |-------------------|------------------|------------------|-------------------|-------------------|-------------------|
-| 9:00 - 12:00|Udfør weekplan i github| Course: Introduction to Career Skills in Software Development|Course: Programming Foundations: Fundamentals|Course: Programming Foundations: Beyond the Fundamentals|lav Studytube i powerpages
+| 09:00 - 12:00|Udfør weekplan i github| Course: Introduction to Career Skills in Software Development|Course: Programming Foundations: Fundamentals|Course: Programming Foundations: Beyond the Fundamentals|lav Studytube i powerpages
 | 12:00 - 12:30| Lunch           | Lunch            | Lunch             | Lunch             | Lunch             |
 | 12:30 - 14:00|skriv noter|skriv noter|skriv noter|skriv noter|lav Studytube i powerpages|
 
