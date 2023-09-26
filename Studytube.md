@@ -32,13 +32,17 @@ Today i spend time making the weekplan, i choose to make it in Github and will s
 <details>
 <summary> Describtion</summary>
 <br>
-skriv her
+Today was the first day of the course-learning and the topic was: Introduction to Career Skills in Software Development. It contained the basic idea of being a software developer, different roles, programming languages and also some hands-on coding examples. I ended the course by doing an exam, that i will show in the picture dropdown. There will also be code snippets of the exercises. I think the course was a little easy, but i still think it benefitted me and freshened up my coding skills.  
 </details>
 
 <details>
 <summary> Pictures/video</summary>
 <br>
-indsæt billed/videolink
+Bolean: ![Skærmbillede 2023-09-26 111217](https://github.com/jona937d/4_semester_jona21m9/assets/92019351/515b9e27-613d-437c-aedc-313dd81903b6)
+function def: ![Skærmbillede 2023-09-26 111535](https://github.com/jona937d/4_semester_jona21m9/assets/92019351/8a247df4-e581-43af-a39e-1881f13bdc25)
+classes: ![Skærmbillede 2023-09-26 114039](https://github.com/jona937d/4_semester_jona21m9/assets/92019351/a3594b8f-c7ee-403d-b6b3-ef398d288fce)
+adding modules: ![Skærmbillede 2023-09-26 114629](https://github.com/jona937d/4_semester_jona21m9/assets/92019351/3b3184de-f308-454a-bd06-38197f74f0e6)
+  
 </details>
 
 <details>
