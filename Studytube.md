@@ -40,18 +40,23 @@ Today was the first day of the course-learning and the topic was: Introduction t
 <br>
   
 Bolean: 
+
 ![Skærmbillede 2023-09-26 111217](https://github.com/jona937d/4_semester_jona21m9/assets/92019351/515b9e27-613d-437c-aedc-313dd81903b6)
 
 function def: 
+
 ![Skærmbillede 2023-09-26 111535](https://github.com/jona937d/4_semester_jona21m9/assets/92019351/8a247df4-e581-43af-a39e-1881f13bdc25)
 
 classes: 
+
 ![Skærmbillede 2023-09-26 114039](https://github.com/jona937d/4_semester_jona21m9/assets/92019351/a3594b8f-c7ee-403d-b6b3-ef398d288fce)
 
 adding modules: 
+
 ![Skærmbillede 2023-09-26 114629](https://github.com/jona937d/4_semester_jona21m9/assets/92019351/3b3184de-f308-454a-bd06-38197f74f0e6)
 
 Exam pass: 
+
 ![certificate course 1](https://github.com/jona937d/4_semester_jona21m9/assets/92019351/616f4f12-1417-419b-9fc8-72b60df4a50f)
 
 </details>
