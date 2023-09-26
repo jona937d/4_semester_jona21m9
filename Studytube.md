@@ -24,7 +24,7 @@ Today i spend time making the weekplan, i choose to make it in Github and will s
 
 <details>
 <summary> Reference</summary>
-<br>
+<br> 
 (https://www.linkedin.com/learning/paths/career-essentials-in-software-development-by-microsoft-and-linkedin?u=36836804)
   
 </details>
@@ -35,7 +35,7 @@ Today i spend time making the weekplan, i choose to make it in Github and will s
 <summary> Describtion</summary>
 <br>
 Today was the first day of the course-learning and the topic was: Introduction to Career Skills in Software Development and was presented by Annyce Davis.
-  
+
 ![image](https://github.com/jona937d/4_semester_jona21m9/assets/92019351/f5277c8d-ab7a-4c09-a5d2-88c8f98f7ee3)
 
 ![1 st course instructor](https://github.com/jona937d/4_semester_jona21m9/assets/92019351/c5127bca-a35c-46b3-9047-21f56d842236)
