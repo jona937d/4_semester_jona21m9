@@ -36,6 +36,8 @@ Today i spend time making the weekplan, i choose to make it in Github and will s
 <br>
 Today was the first day of the course-learning and the topic was: Introduction to Career Skills in Software Development and was presented by Annyce Davis.
   
+![image](https://github.com/jona937d/4_semester_jona21m9/assets/92019351/f5277c8d-ab7a-4c09-a5d2-88c8f98f7ee3)
+
 ![1 st course instructor](https://github.com/jona937d/4_semester_jona21m9/assets/92019351/c5127bca-a35c-46b3-9047-21f56d842236)
 
 It contained the basic idea of being a software developer, different roles, programming languages and also some hands-on coding examples. I ended the course by doing an exam, that i will show in the picture dropdown. There will also be code snippets of the exercises. I think the course was a little easy, but i still think it benefitted me and freshened up my coding skills.  
