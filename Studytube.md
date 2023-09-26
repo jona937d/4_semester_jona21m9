@@ -48,7 +48,7 @@ adding modules: ![Skærmbillede 2023-09-26 114629](https://github.com/jona937d/4
 <details>
 <summary> Reference</summary>
 <br>
-indsæt link som reference
+(https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/beginning-your-programming-journey?contextUrn=urn%3Ali%3AlyndaLearningPath%3A62f55081498ea51c77208c51&u=36836804)
 </details>
 
 # Wednesday
