@@ -2,20 +2,40 @@
 
 | Time              | Monday           | Tuesday          | Wednesday         | Thursday          | Friday            |
 |-------------------|------------------|------------------|-------------------|-------------------|-------------------|
-| 09:00 - 12:00|Udfør weekplan i github| Course: Introduction to Career Skills in Software Development|Course: Programming Foundations: Fundamentals|Course: Programming Foundations: Beyond the Fundamentals|lav Studytube i powerpages
+| 09:00 - 12:00|Udfør weekplan i github| Course: Introduction to Career Skills in Software Development|Course: Programming Foundations: Fundamentals|Course: Programming Foundations: Beyond the Fundamentals|Make Studytube in powerpages
 | 12:00 - 12:30| Lunch           | Lunch            | Lunch             | Lunch             | Lunch             |
-| 12:30 - 14:00|skriv noter|skriv noter|skriv noter|skriv noter|lav Studytube i powerpages|
+| 12:30 - 14:00|make notes|make notes|make notes|make notes|Make Studytube in powerpages|
 
-# Mandag
+# Monday
 
 <details>
-<summary> Beskrivelse</summary>
+<summary> Describtion</summary>
+<br>
+Today i spend time making the weekplan, i choose to make it in Github and will somehow integrate it in Powerpages this friday. I researched for different Linkedin certificates, that is relevant for this semester. I ended up finding one callled "Career Essentials in Software Development by Microsoft and LinkedIn" (link in the Reference dropdown). The certificate consists of three different courses (see picture in the dropdown menu)
+</details>
+
+<details>
+<summary> Pictures/video</summary>
+<br>
+![image](https://github.com/jona937d/4_semester_jona21m9/assets/92019351/17b3e8ae-6ee8-4911-8516-f6fe930e5121)
+</details>
+
+<details>
+<summary> Reference</summary>
+<br>
+(https://www.linkedin.com/learning/paths/career-essentials-in-software-development-by-microsoft-and-linkedin?u=36836804)
+</details>
+
+# Tuesday
+
+<details>
+<summary> Describtion</summary>
 <br>
 skriv her
 </details>
 
 <details>
-<summary> Billede/video</summary>
+<summary> Pictures/video</summary>
 <br>
 indsæt billed/videolink
 </details>
@@ -26,16 +46,16 @@ indsæt billed/videolink
 indsæt link som reference
 </details>
 
-# Tirsdag
+# Wednesday
 
 <details>
-<summary> Beskrivelse</summary>
+<summary> Describtion</summary>
 <br>
 skriv her
 </details>
 
 <details>
-<summary> Billede/video</summary>
+<summary> Pictures/video</summary>
 <br>
 indsæt billed/videolink
 </details>
@@ -46,16 +66,16 @@ indsæt billed/videolink
 indsæt link som reference
 </details>
 
-# Onsdag
+# Thursday
 
 <details>
-<summary> Beskrivelse</summary>
+<summary> Describtion</summary>
 <br>
 skriv her
 </details>
 
 <details>
-<summary> Billede/video</summary>
+<summary> Pictures/video</summary>
 <br>
 indsæt billed/videolink
 </details>
@@ -66,36 +86,16 @@ indsæt billed/videolink
 indsæt link som reference
 </details>
 
-# Torsdag
+# Friday
 
 <details>
-<summary> Beskrivelse</summary>
+<summary> Describtion</summary>
 <br>
 skriv her
 </details>
 
 <details>
-<summary> Billede/video</summary>
-<br>
-indsæt billed/videolink
-</details>
-
-<details>
-<summary> Reference</summary>
-<br>
-indsæt link som reference
-</details>
-
-# Fredag
-
-<details>
-<summary> Beskrivelse</summary>
-<br>
-skriv her
-</details>
-
-<details>
-<summary> Billede/video</summary>
+<summary> Pictures/video</summary>
 <br>
 indsæt billed/videolink
 </details>
