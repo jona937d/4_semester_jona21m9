@@ -17,7 +17,9 @@ Today i spend time making the weekplan, i choose to make it in Github and will s
 <details>
 <summary> Pictures/video</summary>
 <br>
+  
 ![certificate and courses](https://github.com/jona937d/4_semester_jona21m9/assets/92019351/ea8430f9-f6ab-4603-8c7c-ba48bdb8f235)
+
 </details>
 
 <details>
