@@ -24,6 +24,7 @@ Today i spend time making the weekplan, i choose to make it in Github and will s
 <summary> Reference</summary>
 <br>
 (https://www.linkedin.com/learning/paths/career-essentials-in-software-development-by-microsoft-and-linkedin?u=36836804)
+  
 </details>
 
 # Tuesday
