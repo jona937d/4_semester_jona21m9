@@ -85,18 +85,32 @@ The presenter of the course was also, Annyce Davis, and the name of the course w
 
 ![course 2](https://github.com/jona937d/4_semester_jona21m9/assets/92019351/50d3bd99-907d-419a-a263-cd81356457d9)
 
+unlike yesterday, there where no "verification" or exam for finishing the course.
+
 </details>
 
 <details>
 <summary> Pictures/video</summary>
 <br>
-indsæt billed/videolink
+
+Exercise 1: playing with if/else statements
+
+<img width="380" alt="Skærmbillede 2023-09-27 113303" src="https://github.com/jona937d/4_semester_jona21m9/assets/92019351/0534a2c7-ffbe-48d1-b99a-3df29efd09fe">
+
+Exercise 2: In this exercise i wanted to make it a bit more complicated. In the original, any answear other than "yes" would result in the answer "Oh no! That makes me sad!". so i "stored" different answers in lists and added an option for the program, if none of the "elements" where typed ("thats not an answer").
+
+<img width="626" alt="Skærmbillede 2023-09-27 102404" src="https://github.com/jona937d/4_semester_jona21m9/assets/92019351/684951be-5d78-411a-a209-572d5bb64a65">
+
+Exercise 3: In this exercise i had to make a funtion and call it 3 different times. my solution compared to the one from the course what a bit more complicated, but it worked.
+
+![exercise 3](https://github.com/jona937d/4_semester_jona21m9/assets/92019351/69a6a439-7afa-47ac-b1dd-d08e1c014f1a)
+
 </details>
 
 <details>
 <summary> Reference</summary>
 <br>
-indsæt link som reference
+https://www.linkedin.com/learning/programming-foundations-fundamentals-3/the-fundamentals-of-programming?contextUrn=urn%3Ali%3AlyndaLearningPath%3A62f55081498ea51c77208c51&u=36836804 
 </details>
 
 # Thursday
