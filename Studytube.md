@@ -80,7 +80,11 @@ Exam pass:
 <details>
 <summary> Describtion</summary>
 <br>
-skriv her
+On day two of my certificate course i got reintroduced to different coding fundamentals such as, Basic statements and expressions, variables and data, int/str, conditions and making/ calling funtions. This course started out being very easy, but in the end was a little more challenging. The course consited of both theory and practice (exercises). The exercises was available for download on the course site. 
+The presenter of the course was also, Annyce Davis, and the name of the course was: Programming Foundations: Fundamentals.
+
+![course 2](https://github.com/jona937d/4_semester_jona21m9/assets/92019351/50d3bd99-907d-419a-a263-cd81356457d9)
+
 </details>
 
 <details>
