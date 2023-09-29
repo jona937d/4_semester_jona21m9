@@ -137,9 +137,11 @@ Making simple dictionary and print values:
 
 ![kode dag 3 1](https://github.com/jona937d/4_semester_jona21m9/assets/92019351/4b7289cd-75f2-41ac-b58c-a78c4d4f640f)
 
-
+printing values from a list compared to a dictionary:
 
 ![kode dag 3 2](https://github.com/jona937d/4_semester_jona21m9/assets/92019351/7a043d81-6266-4e9b-84ae-7c5787a40105)
+
+
 
 ![kode dag 3 3](https://github.com/jona937d/4_semester_jona21m9/assets/92019351/7ef19ad2-9151-4d9e-a021-b7a337257ad1)
 
