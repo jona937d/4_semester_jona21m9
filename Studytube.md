@@ -185,7 +185,7 @@ https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamental
 <details>
 <summary> Describtion</summary>
 <br>
-Today i had to take the final Exam of the course. Sadly i ended up failing the test twice, scoring the highest of 60%. The test felt marginally harder than the small ones throughout the course. Some of the questions was examples of code with errors that i had to pick out. Other questions where examples of code where i had to figure out the output. There was also questions regarding other programming languages, such as Ruby, Java, JS, Ruby and C++, which i found very difficult to answer.
+Today i attended the final Exam of the course. Sadly i ended up failing the test twice, scoring the highest of 60%. The test felt marginally harder than the small ones throughout the course. Some of the questions was examples of code with errors that i had to pick out. Other questions where examples of code where i had to figure out the output. There was also questions regarding other programming languages, such as Ruby, Java, JS, Ruby and C++, which i found very difficult to answer.
 </details>
 
 <details>
