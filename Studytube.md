@@ -166,7 +166,7 @@ object-oriented methods (count and pop):
 
 ![kode dag 3 8 object-oriented methods](https://github.com/jona937d/4_semester_jona21m9/assets/92019351/f2ddc599-d89f-4499-84bc-5350be54f369)
 
-
+Exercise (object oriented programming, making classes and funtions):
 
 ![kode dag 3 9 object oriented programming classes](https://github.com/jona937d/4_semester_jona21m9/assets/92019351/f8a19d37-e3cc-4353-9c2e-3b84bca39338)
 
@@ -176,7 +176,8 @@ object-oriented methods (count and pop):
 <details>
 <summary> Reference</summary>
 <br>
-indsæt link som reference
+  
+https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/broadening-your-knowledge-of-programming-fundamentals-22191968?contextUrn=urn%3Ali%3AlyndaLearningPath%3A62f55081498ea51c77208c51&resume=false&u=36836804
 </details>
 
 # Friday
