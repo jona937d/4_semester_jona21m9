@@ -200,4 +200,7 @@ Today i attended the final Exam of the course. Sadly i ended up failing the test
 <summary> Reflections</summary>
 <br>
 Overall it has been a really educative and learningful course and i finally got myself to code a bit. Most of the fundamentals i already knew, but it was nice to freshen up old knowledge by practacing. It was very upsetting failing the test twice and this weeks work kind of felt like a failure in that regard. I think i would be able to pass the exam by practacing both python and learn the fundamentals of other programming languages.
+
+Regarding the Weekplan i finished what i had to do the days that i planned doing them. There where only some insignificant changes to the daily time-stamps.
+ 
 </details>
