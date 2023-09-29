@@ -4,7 +4,7 @@
 |-------------------|------------------|------------------|-------------------|-------------------|-------------------|
 | 09:00 - 12:00|Make weekplan in github| Course: Introduction to Career Skills in Software Development|Course: Programming Foundations: Fundamentals|Course: Programming Foundations: Beyond the Fundamentals|Take Course exam
 | 12:00 - 12:30| Lunch           | Lunch            | Lunch             | Lunch             | Lunch             |
-| 12:30 - 14:00|make notes|make notes|make notes|make notes|Make Notes and upload file to Wiseflow|
+| 12:30 - 14:00|make daily notes|make daily notes|make daily notes|make daily notes|Make daily Notes/ final reflections and upload file to Wiseflow|
 
 # Monday
 
