@@ -158,11 +158,15 @@ Converting string to float:
 
 ![kode dag 3 6 converting string to flloat](https://github.com/jona937d/4_semester_jona21m9/assets/92019351/ecd4c908-b39b-47c2-ad3d-2fc241f2564c)
 
-
+Debug exercise, the code had bugs and syntax errors that i fixed and is now working:
 
 ![kode dag 3 7 debugging](https://github.com/jona937d/4_semester_jona21m9/assets/92019351/4e337bfa-950a-4b41-987c-04e061794691)
 
+
+
 ![kode dag 3 8 object-oriented methods](https://github.com/jona937d/4_semester_jona21m9/assets/92019351/f2ddc599-d89f-4499-84bc-5350be54f369)
+
+
 
 ![kode dag 3 9 object oriented programming classes](https://github.com/jona937d/4_semester_jona21m9/assets/92019351/f8a19d37-e3cc-4353-9c2e-3b84bca39338)
 
