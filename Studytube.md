@@ -125,7 +125,7 @@ The course on day 3 was presented by no other than Principal Technical Course De
 
 ![sasha](https://github.com/jona937d/4_semester_jona21m9/assets/92019351/7306d473-f919-4fa0-b3c5-3ec36a8a6e63)
 
-The difficulty of this course was a bit higher, but i was able to mangage and understand content. The methods and theory i got introduced to in this course was a level up from the 2 previous courses, but many of the fundamentals was still beneficial in doing the attached exercises. Some of the topics from this course was: constructing and using collections, iterations and loops, using external codes (functions), working with and manipulating strings, debugging and object oriented content. The conetent was fairly rasy to understand, partly because of Sasha's way to descibe the theory using everyday no-code visual examples.
+The difficulty of this course was a bit higher, but i was able to mangage and understand the content. The methods and theory i got introduced to in this course was a level up from the 2 previous courses, but many of the fundamentals was still beneficial in doing the attached exercises. Some of the topics from this course was: constructing and using collections, iterations and loops, using external codes (functions), working with and manipulating strings, debugging and object oriented content. The conetent was fairly rasy to understand, partly because of Sasha's way to descibe the theory using everyday no-code visual examples.
 
 </details>
 
