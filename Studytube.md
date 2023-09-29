@@ -162,7 +162,7 @@ Debug exercise, the code had bugs and syntax errors that i fixed and is now work
 
 ![kode dag 3 7 debugging](https://github.com/jona937d/4_semester_jona21m9/assets/92019351/4e337bfa-950a-4b41-987c-04e061794691)
 
-
+object-oriented methods (count and pop):
 
 ![kode dag 3 8 object-oriented methods](https://github.com/jona937d/4_semester_jona21m9/assets/92019351/f2ddc599-d89f-4499-84bc-5350be54f369)
 
