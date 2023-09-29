@@ -150,9 +150,11 @@ printing values from a list using "for loops":
 
 ![kode dag 3 4](https://github.com/jona937d/4_semester_jona21m9/assets/92019351/069c01b0-d007-4b63-8b57-b62e45dbd0ac)
 
-
+importing existing module from another file:
 
 ![kode dag 3 5 import module](https://github.com/jona937d/4_semester_jona21m9/assets/92019351/1102df74-519c-4d57-9717-87fa940d51c1)
+
+
 
 ![kode dag 3 6 converting string to flloat](https://github.com/jona937d/4_semester_jona21m9/assets/92019351/ecd4c908-b39b-47c2-ad3d-2fc241f2564c)
 
