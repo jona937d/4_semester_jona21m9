@@ -133,7 +133,11 @@ The difficulty of this course was a bit higher, but i was able to mangage and un
 <summary> Pictures/video</summary>
 <br>
 
+Making simple dictionary and print values:
+
 ![kode dag 3 1](https://github.com/jona937d/4_semester_jona21m9/assets/92019351/4b7289cd-75f2-41ac-b58c-a78c4d4f640f)
+
+
 
 ![kode dag 3 2](https://github.com/jona937d/4_semester_jona21m9/assets/92019351/7a043d81-6266-4e9b-84ae-7c5787a40105)
 
