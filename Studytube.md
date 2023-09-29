@@ -195,7 +195,7 @@ indsæt billed/videolink
 </details>
 
 <details>
-<summary> Reference</summary>
+<summary> Reflections</summary>
 <br>
 indsæt link som reference
 </details>
