@@ -154,9 +154,11 @@ importing existing module from another file:
 
 ![kode dag 3 5 import module](https://github.com/jona937d/4_semester_jona21m9/assets/92019351/1102df74-519c-4d57-9717-87fa940d51c1)
 
-
+Converting string to float:
 
 ![kode dag 3 6 converting string to flloat](https://github.com/jona937d/4_semester_jona21m9/assets/92019351/ecd4c908-b39b-47c2-ad3d-2fc241f2564c)
+
+
 
 ![kode dag 3 7 debugging](https://github.com/jona937d/4_semester_jona21m9/assets/92019351/4e337bfa-950a-4b41-987c-04e061794691)
 
