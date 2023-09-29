@@ -141,9 +141,12 @@ printing values from a list compared to a dictionary:
 
 ![kode dag 3 2](https://github.com/jona937d/4_semester_jona21m9/assets/92019351/7a043d81-6266-4e9b-84ae-7c5787a40105)
 
-
+working with "while loop" and indented statements:
 
 ![kode dag 3 3](https://github.com/jona937d/4_semester_jona21m9/assets/92019351/7ef19ad2-9151-4d9e-a021-b7a337257ad1)
+
+
+
 
 ![kode dag 3 4](https://github.com/jona937d/4_semester_jona21m9/assets/92019351/069c01b0-d007-4b63-8b57-b62e45dbd0ac)
 
