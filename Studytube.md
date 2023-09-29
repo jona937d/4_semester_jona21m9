@@ -118,7 +118,13 @@ https://www.linkedin.com/learning/programming-foundations-fundamentals-3/the-fun
 <details>
 <summary> Describtion</summary>
 <br>
-skriv her
+The course on day 3 was presented by no other than Principal Technical Course Developer at DocuSign, Sasha Vodnik. The main topic of the course was: Programming Foundations: Beyond the Fundamental.
+
+![course 3](https://github.com/jona937d/4_semester_jona21m9/assets/92019351/f9615235-108c-4c8d-8563-3a9c04f3affe)
+
+![sasha](https://github.com/jona937d/4_semester_jona21m9/assets/92019351/7306d473-f919-4fa0-b3c5-3ec36a8a6e63)
+
+
 </details>
 
 <details>
