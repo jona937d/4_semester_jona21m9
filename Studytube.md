@@ -185,17 +185,19 @@ https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamental
 <details>
 <summary> Describtion</summary>
 <br>
-skriv her
+Today i had to take the final Exam of the course. Sadly i ended up failing the test twice, scoring the highest of 60%. The test felt marginally harder than the small ones throughout the course. Some of the questions was examples of code with errors that i had to pick out. Other questions where examples of code where i had to figure out the output. There was also questions regarding other programming languages, such as Ruby, Java, JS, Ruby and C++, which i found very difficult to answer.
 </details>
 
 <details>
 <summary> Pictures/video</summary>
 <br>
-indsæt billed/videolink
+
+![exam fail](https://github.com/jona937d/4_semester_jona21m9/assets/92019351/204ffe59-3eda-4dc4-8b2e-bb1453213f16)
+
 </details>
 
 <details>
 <summary> Reflections</summary>
 <br>
-indsæt link som reference
+Overall it was a really educative course and i finally got myself to code a bit. Most of the fundamentals i already knew, but it was nice to freshen up old knowledge by practacing. It was very upsetting failing the test twice and this weeks work kind of felt like a failure in that regard. I think i would be able to pass the exam by practacing both python and learn the fundamentals of other programming languages.
 </details>
