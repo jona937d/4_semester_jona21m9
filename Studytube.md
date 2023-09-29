@@ -125,12 +125,33 @@ The course on day 3 was presented by no other than Principal Technical Course De
 
 ![sasha](https://github.com/jona937d/4_semester_jona21m9/assets/92019351/7306d473-f919-4fa0-b3c5-3ec36a8a6e63)
 
+The difficulty of this course was a bit higher, but i was able to mangage and understand content. The methods and theory i got introduced to in this course was a level up from the 2 previous courses, but many of the fundamentals was still beneficial in doing the attached exercises. Some of the topics from this course was: constructing and using collections, iterations and loops, using external codes (functions), working with and manipulating strings, debugging and object oriented content. The conetent was fairly rasy to understand, partly because of Sasha's way to descibe the theory using everyday no-code visual examples.
+
 </details>
 
 <details>
 <summary> Pictures/video</summary>
 <br>
-indsæt billed/videolink
+
+![kode dag 3 1](https://github.com/jona937d/4_semester_jona21m9/assets/92019351/4b7289cd-75f2-41ac-b58c-a78c4d4f640f)
+
+![kode dag 3 2](https://github.com/jona937d/4_semester_jona21m9/assets/92019351/7a043d81-6266-4e9b-84ae-7c5787a40105)
+
+![kode dag 3 3](https://github.com/jona937d/4_semester_jona21m9/assets/92019351/7ef19ad2-9151-4d9e-a021-b7a337257ad1)
+
+![kode dag 3 4](https://github.com/jona937d/4_semester_jona21m9/assets/92019351/069c01b0-d007-4b63-8b57-b62e45dbd0ac)
+
+![kode dag 3 5 import module](https://github.com/jona937d/4_semester_jona21m9/assets/92019351/1102df74-519c-4d57-9717-87fa940d51c1)
+
+![kode dag 3 6 converting string to flloat](https://github.com/jona937d/4_semester_jona21m9/assets/92019351/ecd4c908-b39b-47c2-ad3d-2fc241f2564c)
+
+![kode dag 3 7 debugging](https://github.com/jona937d/4_semester_jona21m9/assets/92019351/4e337bfa-950a-4b41-987c-04e061794691)
+
+![kode dag 3 8 object-oriented methods](https://github.com/jona937d/4_semester_jona21m9/assets/92019351/f2ddc599-d89f-4499-84bc-5350be54f369)
+
+![kode dag 3 9 object oriented programming classes](https://github.com/jona937d/4_semester_jona21m9/assets/92019351/f8a19d37-e3cc-4353-9c2e-3b84bca39338)
+
+
 </details>
 
 <details>
