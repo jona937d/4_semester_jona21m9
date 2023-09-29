@@ -63,7 +63,7 @@ adding modules:
 
 ![Skærmbillede 2023-09-26 114629](https://github.com/jona937d/4_semester_jona21m9/assets/92019351/3b3184de-f308-454a-bd06-38197f74f0e6)
 
-Exam pass: 
+Course 1 Exam pass: 
 
 ![certificate course 1](https://github.com/jona937d/4_semester_jona21m9/assets/92019351/616f4f12-1417-419b-9fc8-72b60df4a50f)
 
