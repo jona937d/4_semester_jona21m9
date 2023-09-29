@@ -146,9 +146,11 @@ working with "while loop" and indented statements:
 ![kode dag 3 3](https://github.com/jona937d/4_semester_jona21m9/assets/92019351/7ef19ad2-9151-4d9e-a021-b7a337257ad1)
 
 
-
+printing values from a list using "for loops":
 
 ![kode dag 3 4](https://github.com/jona937d/4_semester_jona21m9/assets/92019351/069c01b0-d007-4b63-8b57-b62e45dbd0ac)
+
+
 
 ![kode dag 3 5 import module](https://github.com/jona937d/4_semester_jona21m9/assets/92019351/1102df74-519c-4d57-9717-87fa940d51c1)
 
