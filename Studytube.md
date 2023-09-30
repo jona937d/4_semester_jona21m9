@@ -1,3 +1,8 @@
+Jonas Hvid Nielsen
+Business Economics and IT
+
+## Deep Dive weekplan and studytube
+
 # Week plan
 
 | Time              | Monday           | Tuesday          | Wednesday         | Thursday          | Friday            |
